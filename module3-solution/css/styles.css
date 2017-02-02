@@ -1,0 +1,89 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: white;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #4E4C5F;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand {
+  padding-top: 15px;
+  padding-bottom:  15px;
+  text-align: left;
+}
+
+.navbar-brand h1 { /* Food,LLC */
+  font-family: 'Lora', serif;
+  color: #6FAEE2;
+  font-size: 1.2em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 20px;
+
+}
+
+.mobile-menu {
+    background-color: #4E4C5F;
+    padding: 0px;
+}
+
+ul{
+	background: white
+}
+
+h1 { 
+	font-size: 1.5em;
+	color: black;
+	font-weight: bold;
+}
+
+section{
+	height: 1000px;
+	color: white;
+	background: grey;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+
+h2{
+  font-size: 1.2em;
+  font-weight: bold;
+
+}
+#chicken h2{
+	color: yellow;
+}
+
+#beef h2{
+	color: pink;
+}
+
+#sushi h2{
+	color:  maroon;
+}
+#nav-list {
+  margin-top: 10px;
+  background: 	#E0FFFF;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #ADD8E6;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+#nav-list li {
+  border: 1px solid gray;
+}
